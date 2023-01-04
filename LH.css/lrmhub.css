@@ -18,3 +18,23 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+a{
+
+text-align: center;
+
+display: block;
+
+}
+h2{
+   text-align: center;
+
+display: block; 
+}
+li{
+   text-align: center;
+
+display: block; 
+}
+a:hover{
+ border:1px solid red;  
+}
